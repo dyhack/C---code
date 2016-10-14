@@ -1,0 +1,4 @@
+E:\大三上\C#程序代码\我的Csharp作业\Cal\Cal\bin\Debug\Cal.exe
+E:\大三上\C#程序代码\我的Csharp作业\Cal\Cal\bin\Debug\Cal.pdb
+E:\大三上\C#程序代码\我的Csharp作业\Cal\Cal\obj\x86\Debug\Cal.exe
+E:\大三上\C#程序代码\我的Csharp作业\Cal\Cal\obj\x86\Debug\Cal.pdb

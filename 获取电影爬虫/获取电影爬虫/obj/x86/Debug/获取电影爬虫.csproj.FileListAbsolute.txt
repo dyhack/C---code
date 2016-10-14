@@ -1,0 +1,11 @@
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\obj\x86\Debug\获取电影爬虫.csprojResolveAssemblyReference.cache
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\obj\x86\Debug\获取电影爬虫.Form1.resources
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\obj\x86\Debug\获取电影爬虫.Properties.Resources.resources
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\obj\x86\Debug\获取电影爬虫.csproj.GenerateResource.Cache
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\bin\Debug\获取电影爬虫.exe
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\bin\Debug\获取电影爬虫.pdb
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\bin\Debug\HtmlAgilityPack.dll
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\bin\Debug\HtmlAgilityPack.pdb
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\bin\Debug\HtmlAgilityPack.xml
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\obj\x86\Debug\获取电影爬虫.exe
+E:\大三上\C#程序代码\获取电影爬虫\获取电影爬虫\obj\x86\Debug\获取电影爬虫.pdb

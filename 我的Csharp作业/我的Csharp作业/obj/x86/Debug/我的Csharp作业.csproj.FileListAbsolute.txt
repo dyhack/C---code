@@ -1,0 +1,4 @@
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\bin\Debug\我的Csharp作业.exe
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\bin\Debug\我的Csharp作业.pdb
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\obj\x86\Debug\我的Csharp作业.exe
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\obj\x86\Debug\我的Csharp作业.pdb

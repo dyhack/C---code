@@ -1,0 +1,8 @@
+E:\大三上\C#程序代码\数据库存入图片\数据库存入图片\bin\Debug\数据库存入图片.exe
+E:\大三上\C#程序代码\数据库存入图片\数据库存入图片\bin\Debug\数据库存入图片.pdb
+E:\大三上\C#程序代码\数据库存入图片\数据库存入图片\obj\x86\Debug\数据库存入图片.Form1.resources
+E:\大三上\C#程序代码\数据库存入图片\数据库存入图片\obj\x86\Debug\数据库存入图片.Properties.Resources.resources
+E:\大三上\C#程序代码\数据库存入图片\数据库存入图片\obj\x86\Debug\数据库存入图片.csproj.GenerateResource.Cache
+E:\大三上\C#程序代码\数据库存入图片\数据库存入图片\obj\x86\Debug\数据库存入图片.exe
+E:\大三上\C#程序代码\数据库存入图片\数据库存入图片\obj\x86\Debug\数据库存入图片.pdb
+E:\大三上\C#程序代码\数据库存入图片\数据库存入图片\obj\x86\Debug\数据库存入图片.csprojResolveAssemblyReference.cache

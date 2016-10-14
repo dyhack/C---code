@@ -1,0 +1,9 @@
+E:\大三上\C#程序代码\进程和线程\进程和线程\bin\Debug\进程和线程.exe
+E:\大三上\C#程序代码\进程和线程\进程和线程\bin\Debug\进程和线程.pdb
+E:\大三上\C#程序代码\进程和线程\进程和线程\obj\x86\Debug\进程和线程.Form1.resources
+E:\大三上\C#程序代码\进程和线程\进程和线程\obj\x86\Debug\进程和线程.Properties.Resources.resources
+E:\大三上\C#程序代码\进程和线程\进程和线程\obj\x86\Debug\进程和线程.csproj.GenerateResource.Cache
+E:\大三上\C#程序代码\进程和线程\进程和线程\obj\x86\Debug\进程和线程.exe
+E:\大三上\C#程序代码\进程和线程\进程和线程\obj\x86\Debug\进程和线程.pdb
+E:\大三上\C#程序代码\进程和线程\进程和线程\obj\x86\Debug\进程和线程.Form2.resources
+E:\大三上\C#程序代码\进程和线程\进程和线程\obj\x86\Debug\进程和线程.csprojResolveAssemblyReference.cache

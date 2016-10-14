@@ -1,0 +1,4 @@
+E:\大三上\C#程序代码\IP地址和主机名\IP地址和主机名\bin\Debug\IP地址和主机名.exe
+E:\大三上\C#程序代码\IP地址和主机名\IP地址和主机名\bin\Debug\IP地址和主机名.pdb
+E:\大三上\C#程序代码\IP地址和主机名\IP地址和主机名\obj\x86\Debug\IP地址和主机名.exe
+E:\大三上\C#程序代码\IP地址和主机名\IP地址和主机名\obj\x86\Debug\IP地址和主机名.pdb

@@ -1,0 +1,10 @@
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\bin\Debug\用户数据录入.exe
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\bin\Debug\用户数据录入.pdb
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\obj\x86\Debug\用户数据录入.Form1.resources
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\obj\x86\Debug\用户数据录入.Properties.Resources.resources
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\obj\x86\Debug\用户数据录入.csproj.GenerateResource.Cache
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\obj\x86\Debug\用户数据录入.exe
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\obj\x86\Debug\用户数据录入.pdb
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\obj\x86\Debug\用户数据录入.csprojResolveAssemblyReference.cache
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\obj\x86\Debug\用户数据录入.Form2.resources
+E:\大三上\C#程序代码\用户数据录入\用户数据录入\bin\Debug\用户数据录入.exe.config

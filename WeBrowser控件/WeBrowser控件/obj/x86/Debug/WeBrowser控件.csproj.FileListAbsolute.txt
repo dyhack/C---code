@@ -1,0 +1,7 @@
+E:\大三上\C#程序代码\WeBrowser控件\WeBrowser控件\bin\Debug\WeBrowser控件.exe
+E:\大三上\C#程序代码\WeBrowser控件\WeBrowser控件\bin\Debug\WeBrowser控件.pdb
+E:\大三上\C#程序代码\WeBrowser控件\WeBrowser控件\obj\x86\Debug\WeBrowser控件.Form1.resources
+E:\大三上\C#程序代码\WeBrowser控件\WeBrowser控件\obj\x86\Debug\WeBrowser控件.Properties.Resources.resources
+E:\大三上\C#程序代码\WeBrowser控件\WeBrowser控件\obj\x86\Debug\WeBrowser控件.csproj.GenerateResource.Cache
+E:\大三上\C#程序代码\WeBrowser控件\WeBrowser控件\obj\x86\Debug\WeBrowser控件.exe
+E:\大三上\C#程序代码\WeBrowser控件\WeBrowser控件\obj\x86\Debug\WeBrowser控件.pdb
