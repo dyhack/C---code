@@ -1,0 +1,11 @@
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\obj\x86\Debug\读取Execel文件测试.csprojResolveAssemblyReference.cache
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\bin\Debug\读取Execel文件测试.exe
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\bin\Debug\读取Execel文件测试.pdb
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\bin\Debug\NPOI.dll
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\bin\Debug\NPOI.OOXML.dll
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\bin\Debug\NPOI.OpenXml4Net.dll
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\bin\Debug\NPOI.xml
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\obj\x86\Debug\读取Execel文件测试.exe
+E:\大三上\C#程序代码\读取Execel文件测试\读取Execel文件测试\obj\x86\Debug\读取Execel文件测试.pdb
