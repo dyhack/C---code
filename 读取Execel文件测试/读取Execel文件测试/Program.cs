@@ -10,7 +10,7 @@ using System.Data.SqlClient;
 using System.Data;
 using System.IO;
 using NPOI.POIFS.NIO;
-using NPOI.XSSF.UserModel;
+
 //HSSF is the POI Project's pure Java implementation of the Excel '97(-2007) file format. 
 //XSSF is the POI Project's pure Java implementation of the Excel 2007 OOXML (.xlsx) file format. 
 namespace 读取Execel文件测试
@@ -127,8 +127,9 @@ namespace 读取Execel文件测试
                         {
                             File.Delete("F:\\test.xlsx");
                         }
-                        xssfworkbook.Write(File.OpenWrite("F:\\test.xlsx"));
-                      
+                        FileStream outExecl = File.OpenWrite("F:\\test.xlsx");
+                        xssfworkbook.Write(outExecl);
+                        outExecl.Close();
                     }
                     if (hssfworkbook != null)
                     {
