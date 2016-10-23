@@ -1,0 +1,4 @@
+E:\大三上\C#程序代码\ShowTime\ShowTime\bin\Debug\ShowTime.exe
+E:\大三上\C#程序代码\ShowTime\ShowTime\bin\Debug\ShowTime.pdb
+E:\大三上\C#程序代码\ShowTime\ShowTime\obj\x86\Debug\ShowTime.exe
+E:\大三上\C#程序代码\ShowTime\ShowTime\obj\x86\Debug\ShowTime.pdb
