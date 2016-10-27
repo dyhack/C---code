@@ -1,0 +1,7 @@
+E:\大三上\C#程序代码\Listbox自动添加10行(作业)\Listbox自动添加10行(作业)\bin\Debug\Listbox自动添加10行(作业).exe
+E:\大三上\C#程序代码\Listbox自动添加10行(作业)\Listbox自动添加10行(作业)\bin\Debug\Listbox自动添加10行(作业).pdb
+E:\大三上\C#程序代码\Listbox自动添加10行(作业)\Listbox自动添加10行(作业)\obj\x86\Debug\Listbox自动添加10行_作业_.Form1.resources
+E:\大三上\C#程序代码\Listbox自动添加10行(作业)\Listbox自动添加10行(作业)\obj\x86\Debug\Listbox自动添加10行_作业_.Properties.Resources.resources
+E:\大三上\C#程序代码\Listbox自动添加10行(作业)\Listbox自动添加10行(作业)\obj\x86\Debug\Listbox自动添加10行(作业).csproj.GenerateResource.Cache
+E:\大三上\C#程序代码\Listbox自动添加10行(作业)\Listbox自动添加10行(作业)\obj\x86\Debug\Listbox自动添加10行(作业).exe
+E:\大三上\C#程序代码\Listbox自动添加10行(作业)\Listbox自动添加10行(作业)\obj\x86\Debug\Listbox自动添加10行(作业).pdb
