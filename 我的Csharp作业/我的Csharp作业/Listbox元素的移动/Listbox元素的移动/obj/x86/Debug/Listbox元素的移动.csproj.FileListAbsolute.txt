@@ -1,0 +1,8 @@
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\Listbox元素的移动\Listbox元素的移动\bin\Debug\Listbox元素的移动.exe
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\Listbox元素的移动\Listbox元素的移动\bin\Debug\Listbox元素的移动.pdb
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\Listbox元素的移动\Listbox元素的移动\obj\x86\Debug\Listbox元素的移动.Form1.resources
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\Listbox元素的移动\Listbox元素的移动\obj\x86\Debug\Listbox元素的移动.Properties.Resources.resources
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\Listbox元素的移动\Listbox元素的移动\obj\x86\Debug\Listbox元素的移动.csproj.GenerateResource.Cache
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\Listbox元素的移动\Listbox元素的移动\obj\x86\Debug\Listbox元素的移动.exe
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\Listbox元素的移动\Listbox元素的移动\obj\x86\Debug\Listbox元素的移动.pdb
+E:\大三上\C#程序代码\我的Csharp作业\我的Csharp作业\Listbox元素的移动\Listbox元素的移动\obj\x86\Debug\Listbox元素的移动.csprojResolveAssemblyReference.cache

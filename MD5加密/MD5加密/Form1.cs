@@ -48,7 +48,7 @@ namespace MD5加密
                 temp+= b.ToString("x").PadLeft(2,'0');
             }
             textBox2.Text = temp.Substring(8, 16);
-           textBox3.Text=temp;s
+           textBox3.Text=temp;
         
             /*
             //欲进行md5加密的字符串
