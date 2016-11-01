@@ -4,12 +4,22 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid Height="327">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="362" />
+            <ColumnDefinition Width="314" />
+            <ColumnDefinition Width="48" />
             <ColumnDefinition Width="129*" />
         </Grid.ColumnDefinitions>
-        <Button Content="抛出异常" Height="23" HorizontalAlignment="Left" Margin="12,113,0,0" Name="button1" VerticalAlignment="Top" Width="255" Click="button1_Click" />
-        <Button Content="Button" Grid.Column="1" Height="315" Name="button2" VerticalAlignment="Top" HorizontalAlignment="Left" Width="149" />
-        <Label Height="28" Margin="85,40,157,0" Name="label1" VerticalAlignment="Top" />
+        
+        <Button Content="抛出异常" Height="23" HorizontalAlignment="Left" Margin="12,113,0,0" Name="button1" VerticalAlignment="Top" Width="255" Click="button1_Click">
+            
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0" />
+                    <GradientStop Color="#FF34CBA8" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        
+        <Label Height="28" Margin="85,40,109,0" Name="label1" VerticalAlignment="Top" />
     </Grid>
 
 </Window>

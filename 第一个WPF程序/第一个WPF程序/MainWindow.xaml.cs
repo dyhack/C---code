@@ -24,6 +24,7 @@ namespace 第一个WPF程序
         {
             InitializeComponent();
             this.label1.Content = name;
+ 
         }
 
         private void button1_Click(object sender, RoutedEventArgs e)

@@ -9,3 +9,4 @@ E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\
 E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序.csproj.GenerateResource.Cache
 E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序.exe
 E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序.pdb
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\App.baml

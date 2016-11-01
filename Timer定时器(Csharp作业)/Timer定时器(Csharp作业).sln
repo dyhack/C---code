@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer定时器(Csharp作业)", "Timer定时器(Csharp作业)\Timer定时器(Csharp作业).csproj", "{D06681E6-0826-4565-AB52-E7706703CEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06681E6-0826-4565-AB52-E7706703CEDB}.Debug|x86.ActiveCfg = Debug|x86
+		{D06681E6-0826-4565-AB52-E7706703CEDB}.Debug|x86.Build.0 = Debug|x86
+		{D06681E6-0826-4565-AB52-E7706703CEDB}.Release|x86.ActiveCfg = Release|x86
+		{D06681E6-0826-4565-AB52-E7706703CEDB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
