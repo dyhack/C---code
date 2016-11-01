@@ -1,0 +1,11 @@
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\bin\Debug\第一个WPF程序.exe
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\bin\Debug\第一个WPF程序.pdb
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\MainWindow.baml
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\MainWindow.g.cs
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\App.g.cs
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序_MarkupCompile.cache
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序.g.resources
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序.Properties.Resources.resources
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序.csproj.GenerateResource.Cache
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序.exe
+E:\大三上\C#程序代码\第一个WPF程序\第一个WPF程序\obj\x86\Debug\第一个WPF程序.pdb

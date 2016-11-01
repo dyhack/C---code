@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第一个WPF程序", "第一个WPF程序\第一个WPF程序.csproj", "{377F46CA-AFEE-428F-89E3-937FFCC24FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{377F46CA-AFEE-428F-89E3-937FFCC24FAC}.Debug|x86.ActiveCfg = Debug|x86
+		{377F46CA-AFEE-428F-89E3-937FFCC24FAC}.Debug|x86.Build.0 = Debug|x86
+		{377F46CA-AFEE-428F-89E3-937FFCC24FAC}.Release|x86.ActiveCfg = Release|x86
+		{377F46CA-AFEE-428F-89E3-937FFCC24FAC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
