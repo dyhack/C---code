@@ -42,6 +42,11 @@ namespace Timer定时器_Csharp作业_
                
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
 
     }
 }
