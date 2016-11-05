@@ -1,0 +1,5 @@
+E:\SuShu\SuShu\bin\Debug\SuShu.exe
+E:\SuShu\SuShu\bin\Debug\SuShu.pdb
+E:\SuShu\SuShu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SuShu\SuShu\obj\x86\Debug\SuShu.exe
+E:\SuShu\SuShu\obj\x86\Debug\SuShu.pdb

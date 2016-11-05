@@ -1,0 +1,9 @@
+E:\XunHuan\XunHuan\bin\Debug\XunHuan.exe
+E:\XunHuan\XunHuan\bin\Debug\XunHuan.pdb
+E:\XunHuan\XunHuan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XunHuan\XunHuan\obj\x86\Debug\XunHuan.exe
+E:\XunHuan\XunHuan\obj\x86\Debug\XunHuan.pdb
+E:\大三上\C#程序代码\9x9表\XunHuan\obj\x86\Debug\XunHuan.exe
+E:\大三上\C#程序代码\9x9表\XunHuan\obj\x86\Debug\XunHuan.pdb
+E:\大三上\C#程序代码\9x9表\XunHuan\bin\Debug\XunHuan.exe
+E:\大三上\C#程序代码\9x9表\XunHuan\bin\Debug\XunHuan.pdb
