@@ -60,6 +60,7 @@ namespace 身份证验证
             {
                 return false;
             }
+            Console.WriteLine("出生日期是" + birth);
             return true;
         }
         private bool istrue18idcard(string idcard)
