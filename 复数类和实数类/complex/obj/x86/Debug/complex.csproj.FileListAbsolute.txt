@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\complex\complex\bin\Debug\complex.exe
+c:\users\administrator\documents\visual studio 2010\Projects\complex\complex\bin\Debug\complex.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\complex\complex\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\complex\complex\obj\x86\Debug\complex.exe
+c:\users\administrator\documents\visual studio 2010\Projects\complex\complex\obj\x86\Debug\complex.pdb
+F:\lyg\复数类和实数类\complex\obj\x86\Debug\complex.exe
+F:\lyg\复数类和实数类\complex\obj\x86\Debug\complex.pdb
