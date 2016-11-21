@@ -3,3 +3,5 @@ E:\SuShu\SuShu\bin\Debug\SuShu.pdb
 E:\SuShu\SuShu\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\SuShu\SuShu\obj\x86\Debug\SuShu.exe
 E:\SuShu\SuShu\obj\x86\Debug\SuShu.pdb
+E:\大三上\C#程序代码\素数\SuShu\obj\x86\Debug\SuShu.exe
+E:\大三上\C#程序代码\素数\SuShu\obj\x86\Debug\SuShu.pdb
