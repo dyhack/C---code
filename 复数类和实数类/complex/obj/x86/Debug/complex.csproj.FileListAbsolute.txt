@@ -7,3 +7,5 @@ F:\lyg\复数类和实数类\complex\obj\x86\Debug\complex.exe
 F:\lyg\复数类和实数类\complex\obj\x86\Debug\complex.pdb
 E:\大三上\C#程序代码\复数类和实数类\complex\obj\x86\Debug\complex.exe
 E:\大三上\C#程序代码\复数类和实数类\complex\obj\x86\Debug\complex.pdb
+E:\大学\大三上\C#程序代码\复数类和实数类\complex\obj\x86\Debug\complex.exe
+E:\大学\大三上\C#程序代码\复数类和实数类\complex\obj\x86\Debug\complex.pdb
