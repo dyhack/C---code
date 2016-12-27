@@ -1,0 +1,5 @@
+E:\大学\大三上\C#程序代码\test\test\test\bin\Debug\test.exe
+E:\大学\大三上\C#程序代码\test\test\test\bin\Debug\test.pdb
+E:\大学\大三上\C#程序代码\test\test\test\obj\x86\Debug\test.exe
+E:\大学\大三上\C#程序代码\test\test\test\obj\x86\Debug\test.pdb
+E:\大学\大三上\C#程序代码\test\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache

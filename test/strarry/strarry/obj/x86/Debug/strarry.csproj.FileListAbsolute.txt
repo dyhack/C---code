@@ -1,0 +1,4 @@
+E:\大学\大三上\C#程序代码\test\strarry\strarry\bin\Debug\strarry.exe
+E:\大学\大三上\C#程序代码\test\strarry\strarry\bin\Debug\strarry.pdb
+E:\大学\大三上\C#程序代码\test\strarry\strarry\obj\x86\Debug\strarry.exe
+E:\大学\大三上\C#程序代码\test\strarry\strarry\obj\x86\Debug\strarry.pdb
